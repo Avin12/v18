@@ -67,10 +67,10 @@ global.packname = 'By King Of Bear' // ganti aja
 global.author = 'King Of Bear' // ganti aja
 
 //yyy
-bc = 'King Of Bear' //King Of Bear Broadcast
+bc = 'Avkn' //Avin Broadcast
 footer = '\n©King Of Bear'
-namabot = 'YUKI BOT'
-namalu = 'King Of Bear'
+namabot = 'Avin BOT'
+namalu = 'Avin'
 
 
 // 
